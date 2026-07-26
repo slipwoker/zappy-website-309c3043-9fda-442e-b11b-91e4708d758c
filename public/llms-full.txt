@@ -2,13 +2,13 @@
 
 A charming homemade baking brand called 'homemade', run by a 12-year-old girl. The brand carries a youthful, sweet, and personal touch — evoking the warmth and creativity of a young baker sharing her passion. The vibe is playful, wholesome, and heartfelt, with a strong emphasis on homemade authenticity and childlike joy.
 
-Source: https://homemade-309c3043.zappy5.app
+Source: https://example.com
 
 ---
 
 ## עוגיות חמאת בוטנים ביתיות שיגרמו לכם לחייך — homemade
 
-URL: https://homemade-309c3043.zappy5.app
+URL: https://example.com
 Description: גלו את הקסם המתוק של &#39;homemade&#39; – מותג אפייה ביתי בהובלת אופה צעירה בת 12. עוגיות חמאת בוטנים ביתיות, מתכונים מלאי אהבה ויצירתיות ילדותית מחכים לכם. הצטרפו למסע הטעים עוד היום!
 
 עוגיות חמאת בוטנים ביתיות שיגרמו לכם לחייך — homemade
@@ -443,7 +443,7 @@ Description: גלו את הקסם המתוק של &#39;homemade&#39; – מות�
 
 ## פנקו את עצמכם בחטיפים ביתיים שאי אפשר לעמוד בפניהם — homemade
 
-URL: https://homemade-309c3043.zappy5.app/treats
+URL: https://example.com/treats
 Description: מחפשים חטיפים אפויים בטעם של ילדות? ב-&#39;homemade&#39; תמצאו מבחר חטיפים ביתיים, מעוגיות חמאת בוטנים ועד הפתעות מתוקות אחרות, כולן באפייה אישית ומלאת נשמה. בואו לטעום את השמחה!
 
 פנקו את עצמכם בחטיפים ביתיים שאי אפשר לעמוד בפניהם — homemade
@@ -810,7 +810,7 @@ Description: מחפשים חטיפים אפויים בטעם של ילדות? ב
 
 ## הכירו את הסיפור המתוק מאחורי האופה הצעירה — homemade
 
-URL: https://homemade-309c3043.zappy5.app/about
+URL: https://example.com/about
 Description: מי עומדת מאחורי &#39;homemade&#39;? נערה בת 12 עם תשוקה ענקית לאפייה ביתית ואותנטית. קראו על המסע שלה, האהבה לעוגיות חמאת בוטנים ביתיות, והחלום להפיץ אושר דרך בצק וסוכר. סיפור שיעורר השראה!
 
 הכירו את הסיפור המתוק מאחורי האופה הצעירה — homemade
@@ -1195,7 +1195,7 @@ Description: מי עומדת מאחורי &#39;homemade&#39;? נערה בת 12 �
 
 ## הצצה מתוקה לעולם האפייה הקסום שלנו — homemade
 
-URL: https://homemade-309c3043.zappy5.app/gallery
+URL: https://example.com/gallery
 Description: תמונות שיעשו לכם חשק עז למתוק! גללו בגלריה של &#39;homemade&#39; וגלו עוגיות חמאת בוטנים ביתיות מושלמות, יצירות אפייה שובבות ורגעים מתוקים מהמטבח של האופה הצעירה שלנו. כל תמונה מספרת סיפור טעים!
 
 הצצה מתוקה לעולם האפייה הקסום שלנו — homemade
@@ -1537,7 +1537,7 @@ Description: תמונות שיעשו לכם חשק עז למתוק! גללו ב�
 
 ## צרו קשר והזמינו את המתוק ישירות אליכם — homemade
 
-URL: https://homemade-309c3043.zappy5.app/contact
+URL: https://example.com/contact
 Description: רוצים להזמין עוגיות חמאת בוטנים ביתיות או סתם להגיד שלום? מלאו את הטופס ב-&#39;homemade&#39; וניצור קשר במהירות. אנחנו מחכים לשמוע מכם ולהמתיק לכם את היום עם אפייה אישית ומלאת אהבה!
 
 צרו קשר והזמינו את המתוק ישירות אליכם — homemade
@@ -1839,7 +1839,7 @@ Description: רוצים להזמין עוגיות חמאת בוטנים ביתי
 
 ## מדיניות פרטיות
 
-URL: https://homemade-309c3043.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2079,7 +2079,7 @@ homemade ("החברה", "אנו", "שלנו") מחויבת להגן על פרט�
 
 ## הצהרת נגישות
 
-URL: https://homemade-309c3043.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2328,7 +2328,7 @@ homemade מחויבת להנגיש את השירותים לכלל הציבור. 
 
 ## תנאי שימוש
 
-URL: https://homemade-309c3043.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -2596,7 +2596,7 @@ homemade מספקת Bakery / Home Baking דרך האתר. השירותים כפ�
 
 ## תודה שפניתם אלינו
 
-URL: https://homemade-309c3043.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: homemade - תודה שפניתם אלינו
 
 תודה שפניתם אלינו
