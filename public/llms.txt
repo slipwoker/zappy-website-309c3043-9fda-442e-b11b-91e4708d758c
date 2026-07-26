@@ -50,7 +50,7 @@ Information about WCAG compliance and accessibility features.
 
 - Phone: 0549889948
 - Phone (tel): tel:0549889948
-- Address: באר יעקוב
+- Address: הנקר , באר יעקוב
 
 ### Contact form
 - URL: https://example.com/contact
