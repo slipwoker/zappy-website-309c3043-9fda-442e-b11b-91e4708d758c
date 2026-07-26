@@ -1,0 +1,86 @@
+# homemade — Generative Engine Optimization Map
+
+> A charming homemade baking brand called 'homemade', run by a 12-year-old girl. The brand carries a youthful, sweet, and personal touch — evoking the warmth and creativity of a young baker sharing her passion. The vibe is playful, wholesome, and heartfelt, with a strong emphasis on homemade authenticity and childlike joy.
+
+---
+
+## Pages
+
+### בית
+https://homemade-309c3043.zappy5.app
+גלו את הקסם המתוק של &#39;homemade&#39; – מותג אפייה ביתי בהובלת אופה צעירה בת 12. עוגיות חמאת בוטנים ביתיות, מתכונים מלאי אהבה ויצירתיות ילדותית מחכים לכם. הצטרפו למסע הטעים עוד היום!
+
+### חטיפים
+https://homemade-309c3043.zappy5.app/treats
+מחפשים חטיפים אפויים בטעם של ילדות? ב-&#39;homemade&#39; תמצאו מבחר חטיפים ביתיים, מעוגיות חמאת בוטנים ועד הפתעות מתוקות אחרות, כולן באפייה אישית ומלאת נשמה. בואו לטעום את השמחה!
+
+### אודות
+https://homemade-309c3043.zappy5.app/about
+מי עומדת מאחורי &#39;homemade&#39;? נערה בת 12 עם תשוקה ענקית לאפייה ביתית ואותנטית. קראו על המסע שלה, האהבה לעוגיות חמאת בוטנים ביתיות, והחלום להפיץ אושר דרך בצק וסוכר. סיפור שיעורר השראה!
+
+### גלריה
+https://homemade-309c3043.zappy5.app/gallery
+תמונות שיעשו לכם חשק עז למתוק! גללו בגלריה של &#39;homemade&#39; וגלו עוגיות חמאת בוטנים ביתיות מושלמות, יצירות אפייה שובבות ורגעים מתוקים מהמטבח של האופה הצעירה שלנו. כל תמונה מספרת סיפור טעים!
+
+### צור קשר
+https://homemade-309c3043.zappy5.app/contact
+רוצים להזמין עוגיות חמאת בוטנים ביתיות או סתם להגיד שלום? מלאו את הטופס ב-&#39;homemade&#39; וניצור קשר במהירות. אנחנו מחכים לשמוע מכם ולהמתיק לכם את היום עם אפייה אישית ומלאת אהבה!
+
+### תודה שפניתם אלינו
+https://homemade-309c3043.zappy5.app/thank-you
+homemade - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://homemade-309c3043.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://homemade-309c3043.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://homemade-309c3043.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://homemade-309c3043.zappy5.app/contact
+- Endpoint: https://homemade-309c3043.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About homemade
+A charming homemade baking brand called 'homemade', run by a 12-year-old girl. The brand carries a youthful, sweet, and personal touch — evoking the warmth and creativity of a young baker sharing her passion. The vibe is playful, wholesome, and heartfelt, with a strong emphasis on homemade authenticity and childlike joy.
+
+## Target Audience
+- משפחות חובבות אפייה
+- מתכנני אירועים פרטיים
+- קונים מקומיים
+
+## Industry
+Bakery / Home Baking
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://homemade-309c3043.zappy5.app/sitemap.xml
+- Robots: https://homemade-309c3043.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://homemade-309c3043.zappy5.app/llms-full.txt
